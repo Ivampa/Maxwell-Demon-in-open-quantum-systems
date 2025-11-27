@@ -28,3 +28,10 @@ extended in the following directions:
 
 The goal is to develop a flexible and extensible framework to have fun with
 non-equilibrium quantum thermodynamics in nanoscale systems.
+
+
+
+## License
+
+The Bachelor’s Thesis (PDF) included in this repository is licensed under  
+**Creative Commons Attribution 4.0 International (CC BY 4.0)**.
